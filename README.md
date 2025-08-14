@@ -10,6 +10,21 @@
 
 This prefab is a **Server Lobby** and **Trader** structure designed for **7 Days to Die**. Optimized for PvP/PvE servers.
 
+![Server Lobby Overview](screenshots/s1.jpg)
+
+### Screenshots Gallery
+
+<details>
+<summary>📸 View More Screenshots</summary>
+
+| View 1 | View 2 | View 3 |
+|--------|--------|--------|
+| ![Screenshot 1](screenshots/s1.jpg) | ![Screenshot 2](screenshots/s2.jpg) | ![Screenshot 3](screenshots/s3.jpg) |
+| ![Screenshot 4](screenshots/s4.jpg) | ![Screenshot 5](screenshots/s5.jpg) | ![Screenshot 6](screenshots/s6.jpg) |
+| ![Screenshot 7](screenshots/s7.jpg) | ![Screenshot 8](screenshots/s8.jpg) | ![Screenshot 9](screenshots/s9.jpg) |
+
+</details>
+
 ### Features
 
 - **Size**: 23x32x22 blocks
@@ -45,6 +60,21 @@ This prefab is a **Server Lobby** and **Trader** structure designed for **7 Days
 ## Türkçe
 
 Bu prefab, **7 Days to Die** oyunu için tasarlanmış bir **Server Lobby** ve **Trader** yapısıdır. PvP/PvE sunucuları için optimize edilmiştir.
+
+![Server Lobby Görünümü](screenshots/s1.jpg)
+
+### Ekran Görüntüleri Galerisi
+
+<details>
+<summary>📸 Daha Fazla Ekran Görüntüsü</summary>
+
+| Görünüm 1 | Görünüm 2 | Görünüm 3 |
+|-----------|-----------|-----------|
+| ![Ekran Görüntüsü 1](screenshots/s1.jpg) | ![Ekran Görüntüsü 2](screenshots/s2.jpg) | ![Ekran Görüntüsü 3](screenshots/s3.jpg) |
+| ![Ekran Görüntüsü 4](screenshots/s4.jpg) | ![Ekran Görüntüsü 5](screenshots/s5.jpg) | ![Ekran Görüntüsü 6](screenshots/s6.jpg) |
+| ![Ekran Görüntüsü 7](screenshots/s7.jpg) | ![Ekran Görüntüsü 8](screenshots/s8.jpg) | ![Ekran Görüntüsü 9](screenshots/s9.jpg) |
+
+</details>
 
 ### Özellikler
 
