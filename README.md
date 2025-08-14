@@ -2,6 +2,8 @@
 
 ## 7 Days to Die Trader Prefab
 
+![CHAOS RELICS Server Lobby](CHAOS-RELICS-ServerLOBBY.jpg)
+
 [English](#english) | [Türkçe](#türkçe)
 
 ---
