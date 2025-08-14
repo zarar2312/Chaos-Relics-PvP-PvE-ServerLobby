@@ -1,0 +1,26 @@
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*~
+*.swp
+*.swo
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Keep all prefab files
+!*.xml
+!*.blocks.nim
+!*.tts
+!*.ins
+!*.jpg
+!*.png
+!screenshots/
